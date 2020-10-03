@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hey there! I'm Prakhar Srivastava 👋 </h1>
+<h3 align="center">🚀 Data Science | Machine Learing | Deep Learning | OpenCV | Competitive Programmer  🚀</h3>
 
 <!--
 **Prakhar2505/Prakhar2505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
