@@ -9,6 +9,14 @@
   - 💼 &nbsp; I’m currently working on Deep Learning projects.
   - 🌱 &nbsp; Learning more about Tensorflow and OpenCV
   - ✍️ &nbsp; Pursuing Competitive Programming and Gaming as hobbies/side hustles.  
+
+**Connect with me:**
+<p align="left">
+<a href="https://www.instagram.com/prakhar_._srivastava/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="insta" height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://twitter.com/prakhar24214704" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/prakhar-srivastava-14b660193/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40" width="40" /></a> &nbsp;&nbsp;</p>
+
+
 </div> 
 </div>
 <!--
