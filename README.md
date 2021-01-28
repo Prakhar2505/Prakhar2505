@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Prakhar Srivastava 👋 </h1>
-<h3 align="center">🚀 Data Science | Machine Learing | Deep Learning | OpenCV | Competitive Programmer  🚀</h3>
+<h3 align="center">🚀 Data Science | Machine Learing | Deep Learning | Computer Vision | Competitive Programmer  🚀</h3>
 <img width = "35%" align="right" alt="PIC" height="300px" src="https://github.com/Prakhar2505/Prakhar2505/blob/main/prakharbitmoji.png" />
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
